@@ -51,13 +51,6 @@ either one school or all of them.
 want to visualize the data for Indigenous or Non-Indigenous or both type of students.
 
 ## Conclusion
-Analysing the Australian Primary & Secondary School data and determining the results to the
-various questions, it is evident that the Primary & Secondary Education Sector has flourished
-over the years. This project provides clear and succinct visualization to reflect on the
-performance of this sector and determine the future strategic changes required. From the
-visualizations, it can be observed that there is not a high percentage school enrolment of
-Indigenous students, which should be taken into consideration and more policies must be put
-in place to ensure higher enrolment of Indigenous students.
 
 While doing this project, I learnt the fundamentals of data wrangling and data exploration
 where I could analyse the real-world data from Government provided source to provide insights
